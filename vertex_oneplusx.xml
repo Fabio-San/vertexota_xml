@@ -4,7 +4,7 @@
 <VersionName><![CDATA[VertexOS Carbide v3.3]]></VersionName>
 <VersionNumber type="integer">20170715</VersionNumber>
 <DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/VertexOS/xxxxxx]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=xxxxxx]]></HttpUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=XXXX]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>XXXXXX</CheckMD5>
 <FileSize type="integer">XXXXXX</FileSize>
@@ -14,7 +14,9 @@
 <Changelog>
 <![CDATA[
 ## VertexOS changes:
-
+ - Now Officially builds
+ - Updated to latest VertexOS sources
+ - OTA service added
 ]]>
 </Changelog>
 </ROM>.
